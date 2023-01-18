@@ -1,0 +1,2 @@
+# BCCR_mpr_timeseries_R
+Automate the process to transform Monetary Policy Rate data provided by the Central Bank of Costa Rica to a timeseries format.
